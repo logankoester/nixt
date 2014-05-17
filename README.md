@@ -496,7 +496,7 @@ nixt()
 ## Installation
 
 ```bash
-$ npm install nixt
+$ npm install logankoester-nixt
 ```
 
 ## Tests
