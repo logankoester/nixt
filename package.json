@@ -1,7 +1,7 @@
 {
-  "name": "nixt",
+  "name": "logankoester-nixt",
   "version": "0.3.0",
-  "description": "Simple and powerful testing for command-line apps",
+  "description": "Fork of nixt module with prompt/response support for interactive targets",
   "keywords": [
     "testing",
     "test",
